@@ -1,0 +1,16 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "create-element-count-api",
+  "main": "src/index.ts",
+  "account_id": "5cf1f7d8e8195cf94bb7990d34bdbba2",
+  "workers_dev": true,
+  "compatibility_date": "2026-04-08",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "upload_source_maps": true,
+  "browser": {
+    "binding": "BROWSER",
+    "remote": true
+  }
+}
