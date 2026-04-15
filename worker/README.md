@@ -6,7 +6,6 @@ Cloudflare Worker API that uses Browser Rendering and Playwright to count `docum
 
 1. `cd /Users/remicrosetti/Documents/New project/worker`
 2. `npm install`
-3. `cp .dev.vars.example .dev.vars`
 
 ## Run
 
